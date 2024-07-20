@@ -20,14 +20,14 @@ const config = {
     extend: {
       colors: {
         dark:{
-          1:'#1C1F2E',
-          2:'#161925',
+          1:'#141619',
+          2:'#292d34',
         },
         blue:{
-          1:"#0E78F9",
+          1:"#1477B2",
         },
         sky:{
-          1:"#C9DDFF",
+          1:"#CCDADA",
         },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
